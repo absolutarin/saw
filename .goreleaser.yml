@@ -23,25 +23,25 @@ brew:
   name: saw
 
   github:
-    owner: TylerBrock
+    owner: absolutarin
     name: homebrew-saw
 
   commit_author:
-    name: TylerBrock
-    email: tyler.brock@gmail.com
+    name: absolutarin
+    email: mailme@mail.com
 
   folder: Formula
-  homepage: "https://github.com/TylerBrock/saw"
+  homepage: "https://github.com/absolutarin/saw"
   description: "Fast, multipurpose tool for AWS CloudWatch Logs"
 
 git:
   short_hash: true
 
 nfpm:
-  vendor: Tyler Brock
-  homepage: https://github.com/TylerBrock/saw
-  maintainer: Tyler Brock <tyler.brock@gmail.com>
-  description: Fast, multipurpose tool for AWS CloudWatch Logs
+  vendor: Arindam Chanda
+  homepage: https://github.com/absolutarin/saw
+  maintainer: Arindam Chanda
+  description: Fast, multipurpose CLI tool for AWS CloudWatch Logs written in Go
   license: MIT
   formats:
     - deb

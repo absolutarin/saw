@@ -4,7 +4,7 @@
 
 ![Saw Gif](https://media.giphy.com/media/3fiohCfMJAKf7lhnPp/giphy.gif)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/TylerBrock/saw)](https://goreportcard.com/report/github.com/TylerBrock/saw)
+[![Go Report Card](https://goreportcard.com/badge/github.com/absolutarin/saw)](https://goreportcard.com/report/github.com/absolutarin/saw)
 
 ## Run from Docker
 
@@ -56,7 +56,7 @@ sudo dpkg -i <the_deb_name>
 
 - [Install go](https://golang.org/doc/install)
 - Configure your `GOPATH` and add `$GOPATH/bin` to your path
-- Run `go get -u github.com/TylerBrock/saw`
+- Run `go get -u github.com/absolutarin/saw`
 
 #### Windows Specifics
 
