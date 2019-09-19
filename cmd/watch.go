@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/TylerBrock/saw/blade"
-	"github.com/TylerBrock/saw/config"
+	"github.com/absolutarin/saw/blade"
+	"github.com/absolutarin/saw/config"
 	"github.com/spf13/cobra"
 )
 
